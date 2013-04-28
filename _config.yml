@@ -1,0 +1,10 @@
+title : Capybara Page Objects
+tagline: Page Objects pattern for Capybara
+author :
+  name : David DIDIER
+  email : c_inconnu2@yahoo.fr
+permalink: /:year/:month/:day/:title.html
+
+# markdown: redcarpet2
+# redcarpet:
+#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]

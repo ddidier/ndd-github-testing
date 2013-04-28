@@ -1,5 +1,4 @@
 ---
-title: something
 layout: default
 ---
 
