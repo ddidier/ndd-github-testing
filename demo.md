@@ -1,6 +1,6 @@
 ---
 title: something
-layout: main
+layout: default
 ---
 
 # Demo
